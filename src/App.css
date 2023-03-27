@@ -1,0 +1,21 @@
+.App-space {
+  width: 100%;
+}
+
+.App-header {
+  color: #FFF;
+}
+
+.App-footer {
+  text-align: center;
+}
+
+.App-content {
+  padding: 10px;
+  height: 85vh;
+}
+
+.App-image-content {
+  width: 600px;
+  border-radius: 20px;
+}

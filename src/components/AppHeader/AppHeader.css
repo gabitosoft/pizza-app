@@ -1,0 +1,13 @@
+.App-title-header {
+  font-size: larger;
+  font-weight: bolder;
+  flex-grow: 1;
+}
+
+.App-container-header {
+  display: flex;
+}
+
+.App-container-header Button {
+  margin-top: 15px;
+}
